@@ -1,0 +1,7 @@
+Hack Engine:
+
+- HE_SetRect(x, y, w, h) return SDL_Rect
+- HE_CreateTexture()
+- Class HE_FPS
+-- SetFPS
+-- FPS_Delay
